@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("Hello World!");
             var name = Console.Readline();
-            Console.Writeline("This is branch1");
+            Console.Writeline("This is branch");
         }
     }
 }
